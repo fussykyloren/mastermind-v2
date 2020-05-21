@@ -1,10 +1,12 @@
 # Mastermind
 # Table of Contents
-- [Information](https://github.com/fussykyloren/odin-project-tic-tac-toe#information)
-- [Status](https://github.com/fussykyloren/odin-project-tic-tac-toe#status)
-- [Instructions](https://github.com/fussykyloren/odin-project-tic-tac-toe#instructions)
+- [Information](https://github.com/fussykyloren/mastermind-v2#information)
+- [Status](https://github.com/fussykyloren/mastermind-v2#status)
+- [Instructions](https://github.com/fussykyloren/mastermind-v2#instructions)
 ## Information
 Here's a new game for you! Play Mastermind straight from your console! All the files you will need to run this are in this repository with the instructions in the instructions section. This program is built using Ruby v2.6.3p62. Lastly, this program can be run on repl.it. Just follow the following link!
+
+[![Run on Repl.it](https://repl.it/badge/github/fussykyloren/mastermind-v2)](https://repl.it/github/fussykyloren/mastermind-v2)
 ## Status
 At this time, the project is __*finished*__.
 ## Instructions
